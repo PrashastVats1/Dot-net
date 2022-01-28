@@ -1,0 +1,14 @@
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.exe
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.deps.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.runtimeconfig.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.runtimeconfig.dev.json
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\bin\Debug\netcoreapp3.1\2DArraynStuff.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.csproj.AssemblyReference.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.AssemblyInfoInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.AssemblyInfo.cs
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.csproj.CoreCompileInputs.cache
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.dll
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.pdb
+C:\Users\Prashast Vats\OneDrive\Desktop\Capgemini Training\2DArraynStuff\2DArraynStuff\obj\Debug\netcoreapp3.1\2DArraynStuff.genruntimeconfig.cache
